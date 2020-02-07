@@ -1,0 +1,12 @@
+---
+title: "Final Project Proposal"
+author: "Pieter Quinton"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The paper I am currently considering for my final project is "Increasing Inequality: The Effect of GOTV Mobilization on the Composition of the Electorate" by Ryan Enos et. al. The paper centers around the effects of government interventions on the political participation of different demographic groups. The findings show that government interventions widen the disparity in political participation between advantaged and disadvantaged demographic groups. The authors utilize individual-level voting records as well as survey data to conduct the analysis. 
